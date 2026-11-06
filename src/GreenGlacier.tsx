@@ -222,8 +222,8 @@ export default function GreenGlacier() {
 
       <footer className="w-full bg-[#081210] border-t border-[#162925] py-8 px-6">
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#6e8a82]">
-          <p className="font-semibold text-[#8caea4]">Green Glacier founded by xcfq2[cite: 7]</p>
-          <p>© 2026 xcfq2[cite: 7]</p>
+          <p className="font-semibold text-[#8caea4]">Green Glacier founded by xcfq2</p>
+          <p>© 2026 xcfq2</p>
         </div>
       </footer>
     </div>
