@@ -43,7 +43,7 @@ export default function GreenGlacier() {
       {/* Background Audio Element looping your track */}
       <audio
         ref={audioRef}
-        src="/audio/background-music.wav"
+        src="/audio/Green Glacier - Crystal Drifts.mp3"
         loop
         preload="auto"
       />
