@@ -191,7 +191,7 @@ export default function GreenGlacier() {
 
           <div className="flex items-center gap-3 shrink-0">
             <a
-              href="https://discord.gg/wfDVZFXRqX"
+              href="https://discord.gg/zTgqgaYj2B"
               target="_blank"
               rel="noopener noreferrer"
               onClick={onClick}
